@@ -1,12 +1,12 @@
-baseURL = "https://example.com"
+baseURL = "https://ayidota.github.io"
 languageCode = "en-us"
-title = "Example YinYong Blog"
+title = "AyiDotA blog"
 theme = "yinyang"
 DefaultContentLanguage = "cn"
 
 [author]
-  name = "Joway Wang"
-  homepage = "https://joway.io/"
+  name = "Ayi"
+  homepage = "https://ayidota.github.io/"
 
 [languages]
   [languages.en]
@@ -28,4 +28,4 @@ link = "/index.xml"
 
 [[params.socials]]
 name = "About"
-link = "https://joway.io"
+link = "https://ayidota.github.io"
