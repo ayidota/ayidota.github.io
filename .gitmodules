@@ -1,3 +1,6 @@
 [submodule "themes/yinyang"]
 	path = themes/yinyang
 	url = https://github.com/joway/hugo-theme-yinyang
+[submodule "themes/hermit"]
+	path = themes/hermit
+	url = https://github.com/Track3/hermit.git
